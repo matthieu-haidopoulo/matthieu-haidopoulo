@@ -5,4 +5,4 @@
 <br>
 <h2 align="center"> Ma formation Business Intelligence Analyst avec OpenClassrooms </h2>
 
-*Vous trouverez dans ce [portfolio](https://github.com/matthieu-haidopoulo/matthieu-haidopoulo.github.io/blob/main/Portfolio.pdf) mon travail réalisé lors de ma formation.*
+<h3 align="center">*Vous trouverez dans ce [portfolio](https://github.com/matthieu-haidopoulo/matthieu-haidopoulo.github.io/blob/main/Portfolio.pdf) mon travail réalisé lors de ma formation.*</h3>
